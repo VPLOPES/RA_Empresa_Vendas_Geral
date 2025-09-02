@@ -68,15 +68,15 @@ Este projeto apresenta um **painel interativo desenvolvido em Power BI** para an
 
 ### Relatório de Vendas
 
-![Relatório de Vendas](p1.png)
+![Relatório de Vendas](imagens/p1.png)
 
 ### Análise de Clientes
 
-![Análise de Clientes](p2.png)
+![Análise de Clientes](imagens/p2.png)
 
 ### Programa de Cashback
 
-![Programa de Cashback](p3.png)
+![Programa de Cashback](imagens/p3.png)
 
 ---
 
